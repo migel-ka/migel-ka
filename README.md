@@ -11,7 +11,7 @@
 Vue Router / React Router: Для маршрутизации в приложениях соответственно.
 
 <br>
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=migel-ka)](https://github.com/migel-ka/github-readme-stats)
+
 <!--
 **migel-ka/migel-ka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
